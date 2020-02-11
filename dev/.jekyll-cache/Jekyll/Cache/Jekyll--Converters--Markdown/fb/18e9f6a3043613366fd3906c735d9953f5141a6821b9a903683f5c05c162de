@@ -1,0 +1,19 @@
+I"½<p>We are going to learn more about the mathematics behind neural networks, practicing the implementation using low-level APIs, and improving an overfitted MLP.</p>
+
+<h1 id="notes">Notes</h1>
+<ul>
+  <li>Students who audit this course should submit their assignments to be qualified for attending the rest of the sessions.</li>
+  <li>Finding any sort of copying will zero down that assignment grade and also will be counted as two negative assignment points for your final score.</li>
+</ul>
+
+<h1 id="setup">Setup</h1>
+<ol>
+  <li>Click on <strong>Download [problems]</strong> to obtain the assignment jupyter notebook.</li>
+  <li>Go to <a href="https://colab.research.google.com">https://colab.research.google.com/</a>.</li>
+  <li>Switch to Upload tab, choose <code>assignment_01.ipynb</code> and click upload.</li>
+  <li>Now Youâ€™re ready to go.</li>
+</ol>
+
+<h1 id="submission">Submission</h1>
+<p>Follow notebook instructions to submit your assignment!</p>
+:ET
